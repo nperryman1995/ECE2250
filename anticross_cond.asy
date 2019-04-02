@@ -1,0 +1,17 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 64 32 -64 -33
+TEXT -49 -17 Left 1 ANTICROSS
+TEXT -18 10 Left 1 COND
+PIN 0 32 NONE 8
+PINATTR PinName in_1
+PINATTR SpiceOrder 1
+PIN 48 32 NONE 8
+PINATTR PinName in_2
+PINATTR SpiceOrder 2
+PIN 64 0 NONE 8
+PINATTR PinName ctrl_1
+PINATTR SpiceOrder 3
+PIN 64 -16 NONE 8
+PINATTR PinName ctrl_2
+PINATTR SpiceOrder 4
